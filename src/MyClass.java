@@ -8,7 +8,7 @@ public class MyClass {
             return c;
         }
 
-        public static void main(String[] args) {//can't understand why statics are red :)
+        public static void main(String[] args) { //can't understand why statics are red :)
             MyMETHOD(1991, 32);
 
         }
